@@ -4,10 +4,10 @@
   <summary>📈 GitHub Stats</summary>
     <div style="text-align: center;">
         <a href="https://github.com/karolina-alves">
-            <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=Bielzada444&show_icons=true&theme=jolly&border_color=770977&bg_color=000" alt="GitHub stats"/>
+            <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=karolina-alves&show_icons=true&theme=jolly&border_color=770977&bg_color=000" alt="GitHub stats"/>
         </a>
         <a href="https://github.com/karolina-alves">
-            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bielzada444&theme=jolly&background=000000&border=770977" alt="GitHub streak"/>
+            <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=karolina-alves&theme=jolly&background=000000&border=770977" alt="GitHub streak"/>
         </a>
     </div>
 </details>

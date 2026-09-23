@@ -1,4 +1,4 @@
-## Oi gente 👋 Eu sou o Karolina!
+## Oi gente 👋 Eu sou a Karolina!
 
 <details>
   <summary>📈 GitHub Stats</summary>
